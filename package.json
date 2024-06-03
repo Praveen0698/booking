@@ -1,5 +1,4 @@
 {
-  
   "name": "stay-booker-pro",
   "version": "0.1.0",
   "private": true,
@@ -29,8 +28,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    
+    "build": "react-scripts build",
     "test": "npx cypress run --e2e && npx cypress run --component",
     "eject": "react-scripts eject",
     "format:check": "prettier --check 'src/**/*.{js,jsx,ts,tsx,json,css,md}'",
