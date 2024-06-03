@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/booking/static/css/main.3fb3e2ca.css",
-    "main.js": "/github.io/booking/static/js/main.e7bbee14.js",
-    "static/js/496.345ea5c9.chunk.js": "/github.io/booking/static/js/496.345ea5c9.chunk.js",
-    "static/media/stay_booker_logo.png": "/github.io/booking/static/media/stay_booker_logo.68e2a051e0ccca0cfc0d.png",
-    "index.html": "/github.io/booking/index.html",
-    "main.3fb3e2ca.css.map": "/github.io/booking/static/css/main.3fb3e2ca.css.map",
-    "main.e7bbee14.js.map": "/github.io/booking/static/js/main.e7bbee14.js.map",
-    "496.345ea5c9.chunk.js.map": "/github.io/booking/static/js/496.345ea5c9.chunk.js.map"
+    "main.css": "/booking/static/css/main.3fb3e2ca.css",
+    "main.js": "/booking/static/js/main.5de8b1a9.js",
+    "static/js/496.345ea5c9.chunk.js": "/booking/static/js/496.345ea5c9.chunk.js",
+    "static/media/stay_booker_logo.png": "/booking/static/media/stay_booker_logo.68e2a051e0ccca0cfc0d.png",
+    "index.html": "/booking/index.html",
+    "main.3fb3e2ca.css.map": "/booking/static/css/main.3fb3e2ca.css.map",
+    "main.5de8b1a9.js.map": "/booking/static/js/main.5de8b1a9.js.map",
+    "496.345ea5c9.chunk.js.map": "/booking/static/js/496.345ea5c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fb3e2ca.css",
-    "static/js/main.e7bbee14.js"
+    "static/js/main.5de8b1a9.js"
   ]
 }
